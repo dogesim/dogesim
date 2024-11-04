@@ -1,4 +1,4 @@
-# DogeSim: Everyone can do Space
+# DogeSim: Moon Simulator
 
 DogeSim is a open-source moon simulation tool designed for planning space missions, with a focus on lunar settlements. 
 
