@@ -73,8 +73,15 @@ Send DOGE to the Moon: DKrDocy32NsVAnviJ29bHr3bu2rUQk2nio
 ```bash
 	./install_addons.sh
 ```
+or
+```bash
+	/Applications/Godot.app/Contents/MacOS/Godot --headless -s plug.gd install
+```
 
 7. Open the project in Godot and run
+```bash
+/Applications/Godot.app/Contents/MacOS/Godot project.godot
+```
 
 ## 🌐 Community & Support
 
