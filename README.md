@@ -1,17 +1,17 @@
-# LunCo: Everyone can do Space
+# DogeSim: Everyone can do Space
 
-LunCo is a open-source simulation tool designed for planning space missions, with a focus on lunar settlements. 
+DogeSim is a open-source moon simulation tool designed for planning space missions, with a focus on lunar settlements. 
 
 Built with the powerful Godot 4 engine, LunCo aims to revolutionize the way space engineers design and collaborate on complex systems.
 
-## [Try in Browser](https://alpha.lunco.space)
+## [Try in Browser](https://app.dogesim.com)
 
 
 ## 🌌 Vision
 
-Our vision is to provide a comprehensive suite of open-source applications tailored for Lunar Base engineering, including:
+Our vision is to provide a comprehensive suite of open-source applications tailored for Moon Base engineering, including:
 
-- **Unified Platform**: LunCo serves as a central hub, bringing together the best of open-source space engineering tools, offering a unified experience for users.
+- **Unified Platform**: DogeSim serves as a central hub, bringing together the best of open-source space engineering tools, offering a unified experience for users.
 - **Requirements Management**: Streamline and manage your project requirements with ease.
 - **Models Visualizations**: Visualize and interact with your designs in a 3D environment.
 - **Collaborative Training**: Train and collaborate with your team in real-time.
@@ -26,7 +26,7 @@ Our vision is to provide a comprehensive suite of open-source applications tailo
 <p style="text-align: center;">
 <i>Early Development version</i>
 </p>
-##  🌍 LunCo Subsystems
+##  🌍 DogeSim Subsystems
 
 Help us to prioritize the development of features by donating to the feature you like on Gitcoin
 
@@ -34,22 +34,9 @@ Help us to prioritize the development of features by donating to the feature you
 2. [Scroll](https://explorer.gitcoin.co/#/round/534352/13)
 3. [zkSync](https://explorer.gitcoin.co/#/round/324/3)
 
-### 💰 Donations
+### 💰 Join the Mission:
 
-#### EVM
-
-1. General EVM: 0x020673a52560b50a70544d7f841fbc73626648f4
-2. Eth Mainnet: [0x036191Bd2A777C283aE389BD2E0cF6f139f8eaDc](https://etherscan.io/address/0x036191Bd2A777C283aE389BD2E0cF6f139f8eaDc)
-3. Optimism: [0x40891ce6e8574bb9118913a8a304195437f36213]()
-4. Polygon: [0xcb57A8f51C47E243ea0f6061Af5B2C9932eEe820]()
-5. Arbitrum: [0xFEc9F8dB07f96973A453Ee5D1c74606a9a19F26a]()
-6. zkSync: [0xDEfaf4A720Bb1894165A3804c91f75cE748F0381](https://explorer.zksync.io/address/0xDEfaf4A720Bb1894165A3804c91f75cE748F0381)
-7. Base: [0xC9E0Ac9205CDb16520395Fe2570d832A7eA5BfaD]()
-
-#### DOGE
-
-DKrDocy32NsVAnviJ29bHr3bu2rUQk2nio
-
+Send DOGE to the Moon: DKrDocy32NsVAnviJ29bHr3bu2rUQk2nio
 
 ## 🚀 Features
 
@@ -75,11 +62,11 @@ DKrDocy32NsVAnviJ29bHr3bu2rUQk2nio
 3. Install [git lfs](https://github.com/git-lfs/git-lfs#getting-started)
 4. Clone this repo in a terminal: 
 ```bash
-	git clone -b main --single-branch --recurse-submodules https://github.com/LunCoSim/lunco-sim.git
+	git clone -b main --single-branch --recurse-submodules https://github.com/dogesim/dogesim.git
 ```
 5. After cloning, change directory to project folder
 ```bash
-	cd lunco-sim
+	cd dogesim
 ```
 
 6. Run below command to install addons using [gd-plug](https://github.com/imjp94/gd-plug)
@@ -99,8 +86,8 @@ Join our vibrant community and stay updated on the latest developments:
 - [LinkedIn](https://www.linkedin.com/company/luncosim/)
 - [YouTube Channel](https://www.youtube.com/@LunCoSim)
 
-## 💖 Support LunCo
+## 💖 Support DogeSim
 
-If you appreciate our project and want to support our mission, consider making a donation on [Giveth.io](https://giveth.io/project/lunco-collaborative-engineering?referrer_id=0hWfCeRLhwayen8MGBaZGP0CLZv1). Donors receive ~70% back in GIV tokens.
+If you'd like to become a backer of the mission, send DOGE here: DKrDocy32NsVAnviJ29bHr3bu2rUQk2nio
 
 Or get our [Profile NFT](https://app.copernicspace.com/spaceibles/0xAA54295c8eb420732a3748414B782C89229C0841-1587?partner=0xA64f2228cceC96076c82abb903021C33859082F8&seller=0xA64f2228cceC96076c82abb903021C33859082F8)
